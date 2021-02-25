@@ -1483,6 +1483,5 @@ failover
 ;;
 esac
 done
-echo "A sair do "
-echo "Adeus"
+echo "Goodbye"
 exec bash
